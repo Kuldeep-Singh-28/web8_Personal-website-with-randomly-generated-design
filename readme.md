@@ -9,7 +9,7 @@ https://iitisocweb8.herokuapp.com/
 ```
 Github link=>
 
-https://github.com/harshahb/IITISoC--Personal-website-Project----Team-1.git
+https://github.com/Kuldeep-Singh-28/web8_Personal-website-with-randomly-generated-design
 ## Team Members
 
 - Harsh Bardhan
